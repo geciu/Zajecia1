@@ -26,5 +26,11 @@ public class Main {
         //Zadanie 5
         System.out.println("Zadanie 5");
         AGD agd = new AGD();
+
+
+        //Zadanie 6
+        System.out.println("Zadanie 6");
+        Kalkulator kalkulator = new Kalkulator();
+
     }
 }
